@@ -1,0 +1,31 @@
+{
+  "name": "chat_bot_wa",
+  "version": "0.0.1",
+  "description": "create a chat server for a web tp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elwingh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElwinghL/chat_bot_wa.git"
+  },
+  "keywords": [
+    "chat",
+    "node",
+    "js",
+    "giphy",
+    "tenor"
+  ],
+  "bugs": {
+    "url": "https://github.com/ElwinghL/chat_bot_wa/issues"
+  },
+  "homepage": "https://github.com/ElwinghL/chat_bot_wa#readme"
+}
